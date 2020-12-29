@@ -1,10 +1,10 @@
-package Work_7;
+package Work_8.Server;
 
 public interface Chat {
     void broadcastMessage(String message);
-    void clientToClientMessage(ClientHandler client, String nickname, String message);
     boolean isNicknameOccupied(String nickname);
     void subscribe(ClientHandler client);
     void unsubscribe(ClientHandler client);
     AuthenticationService getAuthenticationService();
+
 }

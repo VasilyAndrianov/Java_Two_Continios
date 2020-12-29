@@ -1,15 +1,14 @@
-package Work_7;
-
+package Work_8.Server;
 import java.util.Set;
 
 public class AuthenticationService {
-    private final Set<CredentialsEntry> entries;
+    private Set<CredentialsEntry> entries;
 
     public AuthenticationService() {
         entries = Set.of(
-                new CredentialsEntry("l1", "p1", "nick1"),
-                new CredentialsEntry("l2", "p2", "nick2"),
-                new CredentialsEntry("l3", "p3", "nick3")
+                new CredentialsEntry("l1", "p1", "nickname1"),
+                new CredentialsEntry("l2", "p2", "nickname2"),
+                new CredentialsEntry("l3", "p3", "nickname3")
         );
     }
 
@@ -22,12 +21,10 @@ public class AuthenticationService {
         return null;
     }
 
-
-
     public static class CredentialsEntry {
-        private final String login;
-        private final String password;
-        private final String nickname;
+        private String login;
+        private String password;
+        private String nickname;
 
         public CredentialsEntry(String login, String password, String nickname) {
             this.login = login;
