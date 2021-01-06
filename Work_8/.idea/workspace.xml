@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb4d142a-c883-4a62-9208-81f84255b01f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/intro.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/JavaTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Competitor/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Competitor/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Competitor/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Competitor/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Obstacle/BehevObstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Obstacle/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Obstacle/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Obstacle/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Obstacle/Swim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_1/Obstacle/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_2/ExceptionMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_2/Exeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_2/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_2/MyArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_3/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_4/ChatFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/JavaTwo/src/Work_4/MainChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/ClassWork8/DigitButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/ClassWork8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/ClassWork8/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them2/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them2/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them2/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them2/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them2/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them3/Task3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them3/Task3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them4/HomeTicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them5/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them5/WorkerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them6/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them6/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them6/Dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them6/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them7/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them7/Animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them7/Animals/Dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them7/Behaviour/Behaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them7/Behaviour/JumpBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them7/Behaviour/RunBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them7/Behaviour/SwimBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them8/CalcFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them8/CalcPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaOne/src/JavaOneIntro/Them8/MainCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_4/ChatFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_4/MainChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_5/ThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_6/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_6/ClientUpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_6/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_6/ServerUpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_7/App/ClientMainOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_7/App/ClientMainTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_7/App/ClientMainTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_7/App/ServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_7/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_7/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_7/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work_7/ServerChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/ClientHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/ServerChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/ClientApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/ClientAppTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/ServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/ClientChatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/ClientConnectionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/ChatFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/SubmitActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../src/intro.java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them2/task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them2/task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them2/task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them2/task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them2/task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them2/task6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them3/lesson3_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them3/lesson3_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them5/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Them5/workerMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lesson1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1mLNFykoaWttKbSWLumCvF9joz1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb4d142a-c883-4a62-9208-81f84255b01f" name="Default Changelist" comment="" />
+      <created>1609268811831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609268811831</updated>
+    </task>
+    <servers />
+  </component>
+</project>
